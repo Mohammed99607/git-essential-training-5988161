@@ -1,1 +1,1 @@
-Ths is new line
+This is a new line, specifically for Linkden Learning!
